@@ -1,2 +1,1 @@
-# Estenotipia-Brasileira
-Uma apostila digital para aprender a estenotipia brasileira
+#[Clique aqui para acessar as lições!](https://joaomonteandrade.github.io/Estenotipia-Brasileira-para-Iniciantes/)

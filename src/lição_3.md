@@ -1,3 +1,3 @@
 # Lição 3: Layout
 
-Trabalho em andamento.
+# [Clique aqui para acessar o primeiro exercício](exercicios/exercicio1.txt)

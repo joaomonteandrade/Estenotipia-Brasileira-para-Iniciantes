@@ -1,3 +1,7 @@
 # Lição 3: Layout
 
-# [Clique aqui para acessar o primeiro exercício](exercicios/exercicio1.txt)
+asdfasd
+
+<p><a href="/exercicios/exercicio1.txt" download>Clique aqui para baixar o primeiro exercício</a></p>
+
+asdfaas

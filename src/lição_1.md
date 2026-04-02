@@ -44,7 +44,7 @@ Essencialmente, `TPLREPH` é apenas uma outra forma de escrever `BNEC`(boneco)
 
 ### Vogais faltando
 
-Vendo os exemplos apresentados, você pode ter percebido também que algumas vogais estão faltando. A fim de poupar toques, as vogais átonas são omitidas sempre que possível. A palavra "boneco" tem a ênfase na segunda sílaba (pronunciamos a palavra "boneco" como bo**NÉ**co) então as vogais O na primeira e última sílaba são omitidas (b~~o~~nec~~o~~)
+Vendo os exemplos apresentados, você pode ter percebido também que algumas vogais estão faltando. A fim de poupar toques, as vogais átonas são omitidas sempre que possível. A palavra "boneco" tem a ênfase na segunda sílaba (pronunciamos a palavra "boneco" como bo**NÉ**co) então as vogais O na primeira e última sílaba são omitidas (b<del>o</del>nec<del>o</del>)
 
 > A vogal tônica (que tem a ênfase) não pode ser omitida
 
